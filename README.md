@@ -1,6 +1,11 @@
-# Shopping Agent
+<h1 align="center">Enable AI to do your groceries 🤖</h1>
 
-This project implements a shopping agent that automates interactions with online shopping platforms.
+[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-heller-1b5326140/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/thishellerguy?style=social)](https://x.com/thishellerguy)
+
+
+
+This project is a shopping agent that automates interactions with online shopping platforms.
 
 ## Demo
 
@@ -8,7 +13,7 @@ This project implements a shopping agent that automates interactions with online
 
 [English prompt](task_prompt_en.txt): Buy groceries from dm.
 
-![Groceries from dm](agent_demo.gif)
+![Buying orange juice from dm](https://github.com/joshuaheller/shopping-agent/blob/main/agent_demo.gif?raw=true)
 
 
 ## Prerequisites
@@ -60,14 +65,28 @@ python rewe_shopping.py
 Adjust the prompt:
 - Just edit the prompt in the `task_prompt.txt` file.
 
+## Securiy notice
+- The agent should always use a new Chrome profile to avoid any user data from being used.
+
+- Always monitor the agent's behavior and stop it if it does not work as expected.
+
+- API usage can incur high costs. Always monitor the API usage and stop the agent if the cost is too high.
+
+### Liability disclaimer
+
+The author does not guarantee the accuracy and reliability of the software. The author does not accept any liability for damages that may result from using the software.
+
 ## Roadmap
 
-- [ ] Improve memory management
+- [ ] be able to use other LLMs (especially cheaper ones)
+- [ ] Add more websites to the shopping agent
 
 ## Contributing
 
 I love contributions! Feel free to open issues for bugs or feature requests.
 
+## Acknowledgements
+Thanks to [Browser-use](https://github.com/browser-use/browser-use) for the browser agent framework.
 
 ## License
 
@@ -77,6 +96,6 @@ This project is licensed under the terms included in the LICENSE file (WTFPL).
 
 For questions or feedback, please contact me at joshua@theaisoftwarecompany.com
 
-Or on LinkedIn: [Joshua Heller](https://www.linkedin.com/in/joshua-heller-1b5326140/)
+**Or on LinkedIn:** [Joshua Heller](https://www.linkedin.com/in/joshua-heller-1b5326140/)
 
-Or on X: [@thishellerguy](https://x.com/thishellerguy)
+**Or on X:** [@thishellerguy](https://x.com/thishellerguy)
