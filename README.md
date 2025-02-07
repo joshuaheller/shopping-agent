@@ -59,7 +59,7 @@ Make sure Chrome is closed before running the script.
 Run the shopping agent:
 
 ```bash
-python rewe_shopping.py
+python shopping_agent.py
 ```
 
 Adjust the prompt:
