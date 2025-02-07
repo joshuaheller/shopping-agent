@@ -1,0 +1,28 @@
+1. Go to www.dm.de
+2. Select the store closest to me. I live in 75177 Pforzheim.
+3. Click on "Save dm store"
+4. Add the following items to the shopping cart one after another:
+- Orange juice
+5. Click on the shopping cart icon
+6. Check the shopping list and remove any items that are not included in the shopping list or if there are too many items in the cart.
+
+# General Instructions
+- Always decline cookies when asked.
+- Always use the search field to search for items.
+- Always scroll down to see more results, as results are often not fully displayed.
+- If you can't find a matching result, use a generic search term to search for the item. Then choose the option that best matches the item from the shopping list.
+- If after 5 attempts (where you use an increasingly generic search term each time) still no item is found, continue with the next item on the shopping list.
+- Stay in the same tab so the shopping cart is not lost. If you end up in a different tab, reload the page so the shopping cart loads.
+- Only buy as many items as specified in the shopping list. If nothing is defined, buy the item only once.
+- If a specific brand is mentioned in the item description, only buy the item if that brand is available.
+
+# General Preferences and Shopping Behavior
+- I am a man, 26 years old
+- I live in a single-person household
+- Prefer organic products
+- Prefer the cheapest products, but prefer brand products if they're not excessively more expensive
+## Brands
+I like the following brands:
+  - 
+
+When you're finished, let me know so I can log in with my user account. Don't log in when asked.

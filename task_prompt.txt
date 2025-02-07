@@ -1,0 +1,28 @@
+1. Gehe zu www.dm.de
+2. Wähle den Markt aus, der am nächsten zu mir ist. Ich wohne in 75177 Pforzheim.
+3. Klicke auf "dm Markt merken"
+4. Füge die folgenden Artikel dieser Einkaufsliste nacheinander dem Warenkorb hinzu:
+- Orangensaft
+5. Klicke auf das Warenkorb-Icon
+6. Überprüfe die Einkaufsliste und entferne alle Artikel, die nicht in der Einkaufsliste enthalten sind oder von denen zu viele Exemplare im Warenkorb sind.
+    
+# Allgemeine Anweisungen
+- Lehne Cookie immer ab, wenn du gefragt wirst.
+- Nutze immer das Suchfeld, um nach dem Artikel zu suchen.
+- Scrolle immer nach unten, um mehr Ergebnisse zu sehen, da die Ergebnisse oft nicht vollständig angezeigt werden.
+- Wenn du kein passendes Ergebnis findest, verwende einen generischen Suchbegriff für die Suche nach dem Artikel. Und wähle dann aus den Ergebnissen die Option, die am besten zu dem Artikel aus der Einkaufsliste passt.
+- Wenn nach 5 Versuchen (wo du jedes mal einen noch generischeren Suchbegriff verwendest) immer noch kein Artikel gefunden wird, mache mit dem nächsten Artikel der Einkaufsliste weiter. 
+- Bleibe im selben Tab, damit der Warenkorb nicht verloren geht. Falls du in einem anderen Tab kommst, lade die Seite neu, damit der Warenkorb geladen wird.
+- Kaufe nur so viele Elemente, wie in der Einkaufslist angegeben. Wenn nichts definiert ist kaufe den Artikel nur einmal.
+- Wenn eine explizite Marke in der Artikelbeschreibung angegeben ist kaufe den Artikel nur, wenn die Marke vorhanden ist.
+
+# Generelle Vorlieben und Einkaufsverhalten
+- Ich bin ein Mann, 26 Jahre alt
+- Ich wohne in einem Singlehaushalt
+- Bevorzuge Bio Produkte
+- Bevorzuge die günstigsten Produkte, aber bevorzuge Markenprodukte, wenn sie nicht übermäßig teurer sind.
+## Marken
+Ich mag folgende Marken:
+  - 
+
+Wenn du fertig bist sage mir Bescheid, damit ich mich mit meinem Benutzer anmelden kann. Melde dich nicht an, wenn du gefragt wirst.
