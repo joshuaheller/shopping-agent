@@ -65,7 +65,7 @@ python rewe_shopping.py
 Adjust the prompt:
 - Just edit the prompt in the `task_prompt.txt` file.
 
-## Securiy notice
+## Security notice
 - The agent should always use a new Chrome profile to avoid any user data from being used.
 
 - Always monitor the agent's behavior and stop it if it does not work as expected.
@@ -79,7 +79,9 @@ The author does not guarantee the accuracy and reliability of the software. The 
 ## Roadmap
 
 - [ ] be able to use other LLMs (especially cheaper ones)
-- [ ] Add more websites to the shopping agent
+- [ ] Add more shops to the shopping agent (Rewe, Edeka, Amazon, Alibaba, ...)
+- [ ] Multi-step shopping tasks (e.g. look for recipe for a meal and then buy the respective ingredients)
+
 
 ## Contributing
 
