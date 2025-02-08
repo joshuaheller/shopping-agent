@@ -98,6 +98,10 @@ This project is licensed under the terms included in the LICENSE file (WTFPL).
 
 For questions or feedback, please contact me at joshua@theaisoftwarecompany.com
 
+*Me with my first order from the AI agent:*
+
+![Me with my first order from the AI agent](https://github.com/joshuaheller/shopping-agent/blob/ded938a33243ed6c89e861a95a07a7f002fc0952/me.jpg?raw=true)
+
 **Or on LinkedIn:** [Joshua Heller](https://www.linkedin.com/in/joshua-heller-1b5326140/)
 
 **Or on X:** [@thishellerguy](https://x.com/thishellerguy)
